@@ -143,14 +143,13 @@ StsRefreshTokensValidFrom
 This provided evidence that both account disabling and token revocation were performed.
 
 ## Evidence
+## Evidence
 
-- [Successful sign-in before offboarding](../screenshots/13-teacher-successful-sign-in-before-offboarding.png)
-- [Disabled teacher account](../screenshots/17-teacher-account-disabled.png)
-- [Sessions revoked](../screenshots/18-teacher-sessions-revoked.png)
-- [Sign-in blocked after offboarding](../screenshots/19-teacher-sign-in-blocked-after-offboarding.png)
-- [Session-revocation audit evidence](../screenshots/21-session-revocation-audit-evidence.png)
-- [Account-disabled audit evidence](../screenshots/22-account-disabled-audit-evidence.png)
-- [Failed sign-in log](../screenshots/23-disabled-account-failed-sign-in-log.png)
+- [Teacher group membership before offboarding](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/13-Daniel%20groups%20before%20off-boarding.jpeg)
+- [Teacher account disabled](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/14-teacher-account-disabled.png.jpeg)
+- [Teacher sessions revoked](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/15-teacher-sessions-revoked.png.jpeg)
+- [Account-disabled audit evidence](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/16-account-disabled-audit-evidence.png.jpeg)
+- [Disabled account failed sign-in log](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/17-disabled-account-failed-sign-in-log.png.jpeg)
 
 ## Security Considerations
 
