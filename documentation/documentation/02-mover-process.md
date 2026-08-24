@@ -124,12 +124,12 @@ Organisations should use:
 - Clear naming conventions
 
 ## Evidence
+- [Mathematics membership before transfer](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/07-mathematics-teacher-membership-before-transfer.png.jpeg)
+- [Science membership after transfer](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/09-science-membership-after-transfer.png)
+- [Mathematics membership after transfer](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/10-mathematics-membership-after-transfer.png)
+- [General teacher membership retained](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/11-all-teachers-membership-after-transfer.png)
+- [P2 license retained](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/12-teacher-licence-retained-after-transfer.png.jpeg)
 
-- [Mathematics membership before transfer](../screenshots/07-mathematics-teacher-membership-before-transfer.png.jpeg) 
-- [Science membership after transfer](../screenshots/09-science-membership-after-transfer.png)
-- [Mathematics membership after transfer](../screenshots/10-mathematics-membership-after-transfer.png)
-- [General teacher membership retained](../screenshots/11-all-teachers-membership-after-transfer.png)
-- [P2 license retained](../screenshots/12-teacher-licence-retained-after-transfer.png.jpeg)
 
 
 ## Security Considerations
