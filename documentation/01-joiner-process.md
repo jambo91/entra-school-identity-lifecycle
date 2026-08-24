@@ -87,13 +87,15 @@ This provides:
 | Assign teacher licence | Daniel inherits Microsoft Entra ID P2 | Passed |
 
 ## Evidence
+## Evidence
 
-- [Student dynamic membership](../screenshots/01-dynamic-student-membership.png)
-- [Student dynamic rule](../screenshots/02-student-dynamic-rule.png)
-- [Teacher dynamic membership](../screenshots/03-dynamic-teacher-membership.png)
-- [Teacher dynamic rule](../screenshots/04-teacher-dynamic-rule.png)
-- [Student group-based licence](../screenshots/05-student-group-based-licence.png)
-- [Teacher group-based licence](../screenshots/06-teacher-group-based-licence.png)
+- [Student dynamic membership](../screenshots/01-dynamic-student-membership.png.jpeg)
+- [Student dynamic rule](../screenshots/02-student-dynamic-rule.png.jpeg)
+- [Teacher dynamic membership](../screenshots/03-dynamic-teacher-membership.png.jpeg)
+- [Teacher dynamic rule](../screenshots/04-teacher-dynamic-rule.png.jpeg)
+- [Student group-based licence](../screenshots/05-student-group-based-licence.png.jpeg)
+- [Teacher group-based licence](../screenshots/06-teacher-group-based-licence.png.jpeg)
+
 
 ## Security Considerations
 
