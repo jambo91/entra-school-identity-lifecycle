@@ -125,11 +125,11 @@ Organisations should use:
 
 ## Evidence
 
-- [Mathematics membership before transfer](../screenshots/07-mathematics-teacher-membership-before-transfer.png.jpeg)
+- [Mathematics membership before transfer](../screenshots/07-mathematics-teacher-membership-before-transfer.png.jpeg) 
 - [Science membership after transfer](../screenshots/09-science-membership-after-transfer.png)
 - [Mathematics membership after transfer](../screenshots/10-mathematics-membership-after-transfer.png)
 - [General teacher membership retained](../screenshots/11-all-teachers-membership-after-transfer.png)
-- [P2 licence retained](../screenshots/12-teacher-licence-retained-after-transfer.png.jpeg)
+- [P2 license retained](../screenshots/12-teacher-licence-retained-after-transfer.png.jpeg)
 
 
 ## Security Considerations
