@@ -1,8 +1,8 @@
 # Microsoft Entra School Identity Lifecycle Management
 
 ## Project Status
+✅ Completed and validated
 
-🟡 Core identity controls completed — final dynamic group and licence cleanup verification pending.
 
 ## Project Overview
 
@@ -61,7 +61,7 @@ Testing confirmed that:
 - Session revocation was recorded through the refresh-token timestamp.
 - Dynamic-rule validation excluded the disabled account.
 
-Visible group and licence removal remained pending while Microsoft Entra processed the dynamic membership changes asynchronously.
+- After asynchronous processing completed, Daniel was automatically removed from the teacher groups, and his inherited Microsoft Entra ID P2 license was recovered.
 
 ## Architecture and Access Model
 
@@ -147,7 +147,7 @@ All identities are fictional and exist only in a controlled home-lab tenant.
 | Science access after transfer | Passed |
 | Mathematics access removed after transfer | Passed |
 | General teacher access retained | Passed |
-| Teacher licence retained during transfer | Passed |
+| Teacher license retained during transfer | Passed |
 | Successful sign-in before offboarding | Passed |
 | Account disabled | Passed |
 | Active sessions revoked | Passed |
@@ -155,8 +155,8 @@ All identities are fictional and exist only in a controlled home-lab tenant.
 | Account change recorded in audit logs | Passed |
 | Session revocation recorded in audit logs | Passed |
 | Disabled user excluded by rule validation | Passed |
-| Visible dynamic-group removal | Pending processing |
-| Inherited licence recovery | Pending processing |
+| Automatic dynamic-group removal | Passed |
+| Inherited license recovery | Passed |
 
 ## Project Documentation
 
