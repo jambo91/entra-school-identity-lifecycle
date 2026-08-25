@@ -144,7 +144,7 @@ This provided evidence that account disabling and session revocation occurred.
 - [Teacher sessions revoked](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/15-teacher-sessions-revoked.png.jpeg)
 - [Account-disabled audit evidence](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/16-account-disabled-audit-evidence.png.jpeg)
 - [Disabled account failed sign-in log](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/17-disabled-account-failed-sign-in-log.png.jpeg)
-- [All Teachers membership removed](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/18-all-teachers-after-offboarding.jpeg)
+- [All Teachers membership removed](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/18-all-teachers-after-offboarding.jpeg.jpeg)
 - [Science membership removed](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/19-science-teachers-after-offboarding.jpeg)
 - [Inherited P2 licence removed](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/20-teacher-licence-removed-after-offboarding.jpeg)
 
