@@ -98,9 +98,9 @@ No direct licence removal was required.
 | Review token property | Token-valid timestamp changes | Passed |
 | Validate All Teachers rule | Daniel does not satisfy the rule | Passed |
 | Validate Science Teachers rule | Daniel does not satisfy the rule | Passed |
-| Remove All Teachers membership | Daniel is removed automatically | Passed |
-| Remove Science membership | Daniel is removed automatically | Passed |
-| Remove inherited P2 licence | Licence returns to the available pool | Passed |
+- [All Teachers membership removed](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/18-all-teachers-after-offboarding.jpeg.jpeg)
+- [Science membership removed](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/19-science-teachers-after-offboarding.jpeg.jpeg)
+- [Inherited P2 licence removed](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/20-teacher-licence-removed-after-offboarding.jpeg.jpeg)
 
 ## Processing Delay
 
