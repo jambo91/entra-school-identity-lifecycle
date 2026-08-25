@@ -100,7 +100,7 @@ No direct licence removal was required.
 | Validate Science Teachers rule | Daniel does not satisfy the rule | Passed |
 - [All Teachers membership removed](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/18-all-teachers-after-offboarding.jpeg.jpeg)
 - [Science membership removed](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/19-science-teachers-after-offboarding.jpeg.jpeg)
-- [Inherited P2 licence removed](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/20-teacher-licence-removed-after-offboarding.jpeg.jpeg)
+- [Inherited P2 license removed](https://github.com/jambo91/entra-school-identity-lifecycle/blob/main/screenshots/20-teacher-licence-removed-after-offboarding.jpeg.jpeg)
 
 ## Processing Delay
 
